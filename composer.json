@@ -1,0 +1,12 @@
+{
+    "name": "precision/mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "ext-pdo": "*"
+    }
+}
