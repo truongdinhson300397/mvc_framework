@@ -1,0 +1,9 @@
+{
+    "name": "seven/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Seven\\PhpMvcCore\\": "src/"
+        }
+    },
+    "require": {}
+}
