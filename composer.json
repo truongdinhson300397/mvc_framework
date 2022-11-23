@@ -2,7 +2,7 @@
     "name": "precision/mvc-framework",
     "autoload": {
         "psr-4": {
-            "seven\\phpmvc\\": "."
+            "app\\": "./"
         }
     },
     "require": {}
