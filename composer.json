@@ -2,11 +2,8 @@
     "name": "precision/mvc-framework",
     "autoload": {
         "psr-4": {
-            "app\\": "./"
+            "seven\\phpmvc\\": "."
         }
     },
-    "require": {
-        "vlucas/phpdotenv": "^5.4",
-        "ext-pdo": "*"
-    }
+    "require": {}
 }
